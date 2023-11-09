@@ -1,2 +1,2 @@
 # BubbleScreensaver
-Interactive screensaver
+Interactive old school screensaver for CTR  monitors
